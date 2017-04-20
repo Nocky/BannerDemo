@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         loadBanner();
 
+
     }
 
     /** Method for adding Banner Through XML */
