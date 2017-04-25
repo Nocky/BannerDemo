@@ -24,8 +24,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         loadBanner();
-
-
     }
 
     /** Method for adding Banner Through XML */
