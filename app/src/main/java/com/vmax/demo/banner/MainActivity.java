@@ -15,12 +15,12 @@ public class MainActivity extends AppCompatActivity {
 
 
     VmaxAdView vmaxAdView;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         vmaxAdView=(VmaxAdView)findViewById(R.id.banner_adview);
+
 
 /** Please Check The Layout activity_main To Find The Implementation*/
     }
