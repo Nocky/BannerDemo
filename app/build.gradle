@@ -4,6 +4,7 @@ android {
     compileSdkVersion 24
     buildToolsVersion '26.0.2'
     defaultConfig {
+
         applicationId "com.vmax.demo.banner"
         minSdkVersion 15
         targetSdkVersion 24
